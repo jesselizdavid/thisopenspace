@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #7cc6f1;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-display {
+  display: inline-block;
+  list-style-type: none;
+  padding-right: 20px;
+}
+
+.App-paginate li {
+  display: inline-flex;
+  list-style-type: none;
+  background-color: #f6dd3a;
+  padding: 1em;
+}
